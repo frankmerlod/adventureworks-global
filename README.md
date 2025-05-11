@@ -34,7 +34,7 @@ Este proyecto tiene como finalidad brindar soporte analítico a AdventureWorks G
 
 **Datos: Origen y Descripción**
 
-- **Fuente:** Conjunto de datos proporcionado por Adventure Works Global.
+- **Fuente:** Conjunto de datos proporcionado por AdventureWorks Global.
 - **Contenido:**  - Datos historicos de ventas internacionales de la empresa.
 
 
